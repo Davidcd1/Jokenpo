@@ -6,11 +6,6 @@ Um projeto simples e visual de **Pedra, Papel e Tesoura** feito em Python usando
 
 ---
 
-## ▶️ Assista o vídeo explicando o projeto:
-[![Clique para assistir no YouTube]()
-
----
-
 ## 📦 Baixe o jogo já compilado (sem precisar instalar nada!):
 👉 [Clique aqui para baixar o `.exe`](https://github.com/Davidcd1/Jokenpo/releases/download/v1.0/jokenpo.rar)
 
